@@ -26,7 +26,7 @@ Git, Github, Slack, Visual Studio Code, PhotoShop, Adobe XD, Ui/Ux Design.
 ### Contact Info
 [Email](aelbatal33@gmail.com)\
 [linkedin](https://www.linkedin.com/in/ahmed-elbatal-009b971a4)\
-[facebook](https://www.facebook.com/ahmedelbatal23)\
+[facebook](https://www.facebook.com/aelbatal33)\
 [Ahmad Elbatal](https://ahmedelbatal.netlify.app/)\
 [My CV](assets/myCV/AhmedElbatal-cv.pdf)
 
